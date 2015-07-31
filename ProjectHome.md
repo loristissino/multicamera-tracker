@@ -1,0 +1,1 @@
+A program that shows how a multicamera tracker may work. This is just a proof of concept, written as a university task. It is here because others could get inspired or find useful information in it, but it is far from perfection and usability in the real world.
